@@ -1,0 +1,22 @@
+name: utrice
+channels:
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - cuda=12.6
+  - python=3.11
+  - ninja
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu126
+      - torch==2.6.0+cu126
+      - torchvision==0.21.0+cu126
+      - numpy
+      - tqdm
+      - plyfile
+      - open3d
+      - lpips
+      - mediapy
+      - opencv-python
+
+

@@ -1,0 +1,3 @@
+[submodule "submodules/diff-triangle-tracer"]
+	path = submodules/diff-triangle-tracer
+	url = git@github.com:waizui/diff-triangle-tracer.git
