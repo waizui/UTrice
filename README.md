@@ -1,7 +1,7 @@
 <h1 align="center">UTrice</h1>
 
 <div align="center">
-  <a href="https://www.google.com">Paper</a>
+  <a href="https://arxiv.org/abs/2512.04421">Paper</a>
 </div>
 <br>
 
@@ -107,3 +107,16 @@ python render.py -m <path_to_model> --render_mode <render_mode>
 <div align="center">
   <img src="assets/effects.png" width="800">
 </div>
+
+## Citation
+```
+@misc{liu2025utriceunifyingprimitivesdifferentiable,
+      title={UTrice: Unifying Primitives in Differentiable Ray Tracing and Rasterization via Triangles for Particle-Based 3D Scenes}, 
+      author={Changhe Liu and Ehsan Javanmardi and Naren Bao and Alex Orsholits and Manabu Tsukada},
+      year={2025},
+      eprint={2512.04421},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.04421}, 
+}
+```
