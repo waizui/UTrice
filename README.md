@@ -109,7 +109,7 @@ python render.py -m <path_to_model> --render_mode <render_mode>
 </div>
 
 ## Citation
-```
+```bibtex
 @article{liu2025utrice,
   title = {UTrice: Unifying Primitives in Differentiable Ray Tracing and Rasterization via Triangles for Particle-Based 3D Scenes},
   author = {Changhe Liu and Ehsan Javanmardi and Naren Bao and Alex Orsholits and Manabu Tsukada},
@@ -117,7 +117,8 @@ python render.py -m <path_to_model> --render_mode <render_mode>
   year = {2025},
 }
 ```
-```
+
+```bibtex
 @misc{liu2025utriceunifyingprimitivesdifferentiable,
       title={UTrice: Unifying Primitives in Differentiable Ray Tracing and Rasterization via Triangles for Particle-Based 3D Scenes}, 
       author={Changhe Liu and Ehsan Javanmardi and Naren Bao and Alex Orsholits and Manabu Tsukada},
